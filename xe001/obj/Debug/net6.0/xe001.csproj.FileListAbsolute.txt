@@ -1,0 +1,15 @@
+C:\Users\leon-\Desktop\C# Учеба\Examp\xe001\bin\Debug\net6.0\xe001.exe
+C:\Users\leon-\Desktop\C# Учеба\Examp\xe001\bin\Debug\net6.0\xe001.deps.json
+C:\Users\leon-\Desktop\C# Учеба\Examp\xe001\bin\Debug\net6.0\xe001.runtimeconfig.json
+C:\Users\leon-\Desktop\C# Учеба\Examp\xe001\bin\Debug\net6.0\xe001.dll
+C:\Users\leon-\Desktop\C# Учеба\Examp\xe001\bin\Debug\net6.0\xe001.pdb
+C:\Users\leon-\Desktop\C# Учеба\Examp\xe001\obj\Debug\net6.0\xe001.csproj.AssemblyReference.cache
+C:\Users\leon-\Desktop\C# Учеба\Examp\xe001\obj\Debug\net6.0\xe001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leon-\Desktop\C# Учеба\Examp\xe001\obj\Debug\net6.0\xe001.AssemblyInfoInputs.cache
+C:\Users\leon-\Desktop\C# Учеба\Examp\xe001\obj\Debug\net6.0\xe001.AssemblyInfo.cs
+C:\Users\leon-\Desktop\C# Учеба\Examp\xe001\obj\Debug\net6.0\xe001.csproj.CoreCompileInputs.cache
+C:\Users\leon-\Desktop\C# Учеба\Examp\xe001\obj\Debug\net6.0\xe001.dll
+C:\Users\leon-\Desktop\C# Учеба\Examp\xe001\obj\Debug\net6.0\refint\xe001.dll
+C:\Users\leon-\Desktop\C# Учеба\Examp\xe001\obj\Debug\net6.0\xe001.pdb
+C:\Users\leon-\Desktop\C# Учеба\Examp\xe001\obj\Debug\net6.0\xe001.genruntimeconfig.cache
+C:\Users\leon-\Desktop\C# Учеба\Examp\xe001\obj\Debug\net6.0\ref\xe001.dll
